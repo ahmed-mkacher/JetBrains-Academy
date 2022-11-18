@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6274#comment
+status: Solved
+feedback:
+  message: |-
+    <html>You caught all the exceptions. Congratulations!
+
+    </html>
+  time: "Fri, 18 Nov 2022 09:18:38 UTC"
+record: -1
